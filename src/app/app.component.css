@@ -1,0 +1,9 @@
+.botones-contenedor {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  margin-bottom: 20px;
+}
+.derecha {
+  display: flex;
+}
